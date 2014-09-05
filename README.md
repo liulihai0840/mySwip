@@ -1,2 +1,2 @@
-mySwip
+mySwipe
 ======
